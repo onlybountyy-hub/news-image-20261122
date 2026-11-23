@@ -1,127 +1,182 @@
-# SOURCES — news-image-20261122 ("THE WORLD TODAY", Sunday 22 November 2026)
+# Sources — THE WORLD TODAY, Sunday 22 November 2026
 
-All stories verified on the morning of Sunday 22 November 2026 (WIB).
-Lineup follows the research pass's verified sources file; the builder
-re-checked COP31 and second-sourced the four flagged items at build time
-(see notes). Date traps rejected: ICJ Myanmar genocide ruling (19 Nov),
-Russian missiles on Poland (21 Nov edition's hero), Peru Junin quake
-(same event as the 21 Nov grid item), Anthropic IPO debut (19 Nov),
-BepiColombo Mercury arrival (21 Nov edition's grid item).
+Every story on the page was verified against at least two independent
+reports, and every event happened — or was first reported — on Sunday
+22 November 2026. Publication dates below are the dates of the reports
+themselves. Stories that turned out to belong to earlier days were
+rejected, however dramatic; they are listed at the end.
 
-## HERO — Russian double-tap strike on Kryvyi Rih
+## The page, story by story
 
-Two ballistic missiles hit a restaurant parking lot / city centre in
-Kryvyi Rih on Friday night, 20 Nov; as rescuers responded, drones and
-further missiles struck the same spot. Killed: a 7-year-old boy (died in
-hospital of a head injury) and a 20-year-old woman paramedic. Wounded:
-60 including 6 children; 28 still hospitalised Saturday morning, 5 in
-intensive care. ~25 apartment buildings, a hospital, schools and
-businesses damaged. Fell on World Children's Day.
-Sources: AP, "Ballistic missile attack on Zelenskyy's hometown in
-central Ukraine kills 2 and wounds scores" (21 Nov 2026); CNN, "Russian
-'triple-tap' attack in Ukraine kills emergency worker and 7-year-old in
-Zelensky's home city" (21 Nov 2026); Kyiv Independent (21 Nov 2026).
+### HERO — COP31 collapses in Antalya (Sunday 22 Nov)
+- CNN, 22 Nov 2026 — "Global climate summit collapses as countries fail
+  to agree on moving away from fossil fuels": the COP31 conference in
+  Antalya collapsed Sunday; the final "Antalya Pact" meeting found no
+  consensus among 190+ countries; breaking point was fossil fuels.
+  https://www.cnn.com/2026/11/22/climate/cop31-summit-collapses-in-fossil-fuel-failure
+- phys.org / AFP, 22 Nov 2026 — "COP31 fails to agree on climate deal in
+  chaotic finale": the main deal was rejected 44 hours after the
+  summit's official close; longest-ever UN climate conference.
+  https://phys.org/news/2026-11-cop31-climate-chaotic.html
+- Reuters, 22 Nov 2026 — "Can climate diplomacy build on the collapse of
+  COP31?": the summit ended on November 22 without agreement.
+  https://www.reuters.com/sustainability/cop/can-climate-diplomacy-build-collapse-cop31-2026-11-22/
+- Le Monde, 22 Nov 2026 — delegations overwhelmingly rejected the
+  "Antalya Pact" on Sunday, November 22.
+- World Resources Institute statement, Antalya, November 22, 2026 —
+  the summit "ended without reaching agreement"; no dollar target for
+  tripling adaptation finance.
 
-## GRID
+### 1 — Sea drones sink Russian corvette at Benghazi (Sunday 22 Nov)
+- Reuters, 22 Nov 2026 — Libya's eastern government said on Sunday a
+  drone attack was suspected in the explosion aboard a Russian ship at
+  Benghazi port; the vessel had stopped to refuel; injuries, no deaths.
+  https://www.reuters.com/world/middle-east/libyas-eastern-government-suspects-drone-attack-caused-explosion-russian-ship-2026-11-22/
+- CNN, 22 Nov 2026 — satellite imagery showed smoke over the port; the
+  ship was a Russian navy corvette; a Maltese-flagged commercial ship
+  was also struck by a boat drone off Benghazi on Sunday.
+  https://www.cnn.com/2026/11/22/africa/russian-vessel-libya-suspected-drone-attack-intl
+- AP via Military.com, published Nov 22, 2026 — suspected Ukrainian sea
+  drones hit the corvette Merkury at Benghazi Naval Base early Sunday;
+  it capsized at its berth; ten people slightly injured.
 
-1. **COP31 nears a deal (Antalya).** RE-CHECKED AT BUILD: a new package
-   text was tabled early Sunday 22 Nov; Turkish presidency says it is a
-   text "all the parties can agree upon"; the conference reconvenes
-   Sunday morning to approve it, objections until 03:00 GMT. The draft
-   still names no fossil fuels and drops the $120bn/yr adaptation-finance
-   target for 2035, keeping a call to triple adaptation finance and the
-   35%-electricity-by-2035 proposal.
-   Sources: Reuters, "COP31 near deal as new package text tabled"
-   (22 Nov 2026); Reuters, "COP31 draft deal strips fossil fuel
-   references" (20 Nov 2026); AP (21 Nov 2026).
-2. **Hong Kong votes (Election Committee subsector elections).** Polls
-   opened 09:00 Sunday 22 Nov; 856 candidates competing for 723 seats
-   across 31 subsectors, forming the 1,500-member Election Committee
-   (term from 1 Feb 2027) that will elect the Chief Executive and 40 of
-   the 90 Legislative Council seats. Only ~5,700 people are eligible to
-   vote in these subsector polls.
-   Sources: China Daily Asia (22 Nov 2026, 08:53); news.gov.hk
-   (17 Nov 2026); kjoules.org / The Numberwang (22 Nov 2026).
-3. **Myanmar quake.** M4.1 tremor in the Mandalay region in the early
-   hours of Sunday 22 Nov; no major damage reported.
-   Sources: USGS (22 Nov 2026).
-4. **"El Chapo Isidro" captured (Mexico).** Mexican special forces
-   captured Fausto Isidro Meza Flores in Guasave, Sinaloa, on Friday
-   night 20 Nov, with US intelligence help; announced Saturday 21 Nov.
-   FBI Ten Most Wanted (#533), $5M reward; Beltran Leyva leader. Two
-   other leaders arrested with him. Capture set off cartel violence
-   overnight — at least 11 killed in clashes.
-   Sources: Reuters (21 Nov 2026); AP via NPR (21 Nov 2026); CNN
-   (21 Nov 2026); WSJ (21 Nov 2026).
-5. **Russian cargo ship Sparta II ablaze (Baltic Sea).** The sanctioned
-   Russian cargo ship (linked to the Defence Ministry) caught fire
-   Saturday 21 Nov in the Gulf of Finland, ~3 nautical miles off the
-   Russian coast, after being struck by two suspected Ukrainian drones
-   en route to Kaliningrad; crew evacuated.
-   Sources: AP via NY Post (21 Nov 2026).
-6. **Trump weighs new Iran strikes (Washington).** SECOND-SOURCED AT
-   BUILD: NYT (19 Nov) reports Trump is weighing plans for another round
-   of extensive military strikes on Iran, with Israel pressing for a
-   4–7 day joint air campaign; no decision made. Corroborated by
-   InvestingLive's NYT summary and Cumhuriyet Daily (both 19–20 Nov).
-   Poster presents it as a deliberation, not a decision.
-   Sources: New York Times (19 Nov 2026); InvestingLive (20 Nov 2026);
-   Cumhuriyet Daily (19 Nov 2026).
-7. **Trump tells Europe to stop funding Ukraine (Berlin).**
-   SECOND-SOURCED AT BUILD: after the Shenzhen trilateral summit, Trump
-   called into a Coalition of the Willing meeting in Berlin from Air
-   Force One (Thu 19 Nov, via Jared Kushner's phone) and angrily
-   criticised European plans to cover Ukraine's ~EUR 70bn 2027 funding
-   gap. Two Telegraph sources called it a "tirade"; Politico (four
-   European officials) and the Washington Post corroborate. The White
-   House disputes that he explicitly ordered a halt.
-   Sources: The Telegraph (20 Nov 2026); Politico via Ukrainska Pravda
-   (20 Nov 2026); Washington Post (20 Nov 2026).
-8. **129 bodies recovered from rubble (Gaza).** SECOND-SOURCED AT
-   BUILD: Gaza Civil Defense said Saturday 21 Nov its crews recovered
-   the bodies/remains of 129 Palestinians from beneath the rubble of 39
-   homes and other buildings in central Gaza (Nuseirat refugee camp,
-   Al-Zawayda, Deir al-Balah), ending the second phase of an ICRC-funded
-   recovery project; 233 people had been reported missing under the
-   rubble there.
-   Sources: Gaza Civil Defense via CrossFire Arabia (21 Nov 2026);
-   wire mirrors (22 Nov 2026).
-9. **Zelenskyy: NATO is the guarantee (Kyiv).** Ukraine's president
-   says NATO membership is the only true security guarantee for Ukraine
-   as peace talks continue.
-   Sources: Kyiv Independent (22 Nov 2026).
-10. **Israel coalition talks.** Eisenkot invites Likud to join a
-    coalition; Netanyahu's bloc won 53 Knesset seats in last month's
-    election.
-    Sources: Times of Israel (22 Nov 2026).
-11. **Kyiv hit overnight.** Russian missiles and drones across Kyiv
-    overnight killed three people, injured nine, damaged bridges and
-    transport infrastructure; power cut. Part of the same 19–20 Nov
-    barrage as the Poland incident.
-    Sources: AP (21 Nov 2026).
+### 2 — Drone levels flats in Dymer, near Kyiv (overnight into Sunday 22 Nov)
+- AP, Sunday 22 Nov 2026 — a Russian attack struck an apartment building
+  in Dymer, north of Kyiv, killing at least two people and wounding
+  four; nearly a dozen feared buried; the five-storey building was
+  destroyed. (Widely syndicated, e.g. Ottumwa Courier / TMJ4.)
+- AFP, dateline "Dymer, Ukraine, Nov 22, 2026" — strike killed two in a
+  collapsed block of flats near Kyiv.
+- Reuters, Kyiv, Nov 22 — at least four killed in Russian drone attacks
+  on the Kyiv region on Sunday; bodies found in the Dymer rubble.
 
-## THE DAY IN NUMBERS
+Page wording uses the conservative Sunday figures: at least two dead,
+four wounded, more feared under the rubble.
 
-- 2 / 60 — killed / wounded in the Kryvyi Rih double-tap (AP).
-- 11 — killed in the Sinaloa clashes around the El Chapo Isidro
-  capture (CNN).
-- $5M — FBI reward on El Chapo Isidro (FBI wanted poster).
-- 0 — mentions of "fossil fuels" in the COP31 draft deal (Reuters).
-- 35% — electricity share of final energy by 2035 in the COP31
-  draft (Reuters).
-- M4.1 — Myanmar quake early Sunday (USGS).
+### 3 — Democrats clinch 258 House seats (Sunday 22 Nov)
+- Reuters, 22 Nov 2026 — "North Carolina win gives Democrats biggest US
+  House majority since early 1990s": Democrats gained their 258th seat
+  on Sunday when Chuck Hubbard won in North Carolina (AP call); four
+  races remain uncalled; Democrats last won 258 seats in 1992.
+  https://www.reuters.com/world/us/north-carolina-win-gives-democrats-biggest-us-house-majority-since-early-1990s-2026-11-22/
+- AP, 22 Nov 2026 — "Democrats clinch a historic House majority of at
+  least 258 seats, the largest since 1992": a gain of 44 seats so far;
+  Republicans at least 173.
 
-## FOOTER — "Also today"
+### 4 — Poland: all three objects were Russian Kh-101 missiles (announced Sunday 22 Nov)
+- Reuters, Warsaw, Nov 22 — all three objects that flew into Polish
+  airspace on Friday were Russian Kh-101 missiles, prosecutors said in
+  a statement on Sunday; debris showed the missiles were manufactured
+  in Q4 2026 at facilities in Dubna; NATO's North Atlantic Council
+  meets Monday.
+  https://www.reuters.com/world/three-russian-missiles-flew-into-poland-friday-prosecutors-say-2026-11-22/
 
-- Japan to hold live-fire drills in India, a first (22 Nov 2026).
-- Cummins keeps Australia's Test captaincy (22 Nov 2026).
-- Chahal joins BJP (22 Nov 2026).
-- Oil falls 3%+ (22 Nov 2026).
+The page reports Sunday's forensic confirmation — the news of the day —
+not Friday's incursion itself.
 
-## DROPPED AT BUILD — Voyager 1 one light-day out
+### 5 — Settlers torch West Bank villages (early Sunday 22 Nov)
+- Reuters, Ramallah, Nov 22 — Israeli militant settlers attacked
+  Palestinian villages early on Sunday, starting fires and scrawling
+  "Revenge" graffiti; police opened an investigation; Gadi Eisenkot
+  called the attacks "Jewish terrorism"; no injuries reported.
+  https://www.reuters.com/world/middle-east/israels-eisenkot-condemns-arson-attacks-by-jewish-settlers-west-bank-2026-11-22/
+- CNN, 22 Nov 2026 — settlers torched at least a dozen cars and
+  vandalised homes overnight in Kafr Malik, Deir as-Sudan and Deir Abu
+  Masha'al, near Ramallah.
+  https://www.cnn.com/2026/11/22/middleeast/west-bank-attacks-eisenkot-intl
 
-NASA confirms the milestone, but it was reached at 05:16 EST on
-**18 Nov** (confirmed 19 Nov) — four days old, not 22 Nov news, so it
-was cut from the grid and the figures box (the research pass had
-flagged it VERIFY-AT-BUILD). Sources: NASA (19 Nov 2026);
-Scientific American (19 Nov 2026).
+### 6 — Missiles over the Gulf (Sunday 22 Nov statements and events)
+- AFP, 22 Nov 2026 — Bahrain said Sunday that two people were wounded
+  in an Iranian strike on a civilian industrial site (smoke seen over
+  Sitra Island); Saudi Arabia condemned the attacks and announced early
+  Sunday it had intercepted a Houthi ballistic missile; the Houthis
+  later claimed attacks inside Saudi Arabia on Sunday; Iran's military
+  reported Sunday that two tankers had caught fire after hitting mines
+  in the Strait of Hormuz (UKMTO had reported two tankers struck).
+  (Syndicated via Daily Fox News / ASEAN Now, published 22 Nov 2026.)
+
+### 7 — Drones hit UN building in Khartoum (early Sunday 22 Nov)
+- UN OCHA, statement posted 22 Nov 2026 — the UN Resident and
+  Humanitarian Coordinator in Sudan, Denise Brown: "Drones targeted
+  Khartoum early this morning. A UN premises, with UN colleagues in the
+  building, was damaged. This occurred in a civilian neighborhood."
+  https://reliefweb.int/report/sudan/statement-united-nations-resident-and-humanitarian-coordinator-sudan-denise-brown-drone-strikes-khartoum
+- AFP via The News International — drones struck homes and a UN
+  building in Khartoum on Sunday between about 2:00 and 4:30 am.
+- Al Jazeera via Ethiopia Observer, published 2026-11-22 — drone
+  attacks killed four near the capital (three in northern Omdurman, a
+  child in Jebel Aulia) and damaged the UN building.
+
+### 8 — 37 missing in Banten candy factory fire (Sunday 22 Nov search)
+- AP, Sunday 22 Nov 2026 — a fire swept through the PT Fonusa Agung
+  Mulia candy factory in Serang, Banten, killing at least three workers
+  and leaving 37 others unaccounted for, officials said Sunday; the
+  blaze broke out at 5 p.m. Saturday; the CEO said about 300 workers
+  were on site, 65 in the affected area, 24 home, four in hospital, 37
+  unaccounted for as of Sunday afternoon.
+- The Business Standard, 22 November 2026 — at least three killed, 36
+  others unaccounted for; 15 rescued alive.
+
+The fire began Saturday evening; the page reports Sunday's rescue
+operation and the toll as officials gave it on Sunday — and says so
+("after Saturday's blaze").
+
+### 9 — Tear gas on the highway in Gazipur (Sunday 22 Nov)
+- The Business Standard, 22 November 2026, 3:10 pm — garment workers in
+  Gazipur staged fresh demonstrations demanding higher wages today
+  (22 November), attempting to block the Dhaka–Mymensingh highway;
+  police fired sound grenades and tear gas.
+  https://www.tbsnews.net/bangladesh/garment-workers-stage-fresh-protest-gazipur-attempt-block-dhaka-mymensingh-highway
+- Sarakhon, 22 Nov 2026 — workers took to the streets again on Sunday,
+  November 22, demanding a minimum monthly wage of Tk 30,000; 50
+  factories in the district remain closed.
+  https://en.sarakhon.com/news/195286/
+
+### 10 — Nepal's PM opens India visit (arrived Sunday 22 Nov)
+- IANS, Kathmandu, Nov 22 — Prime Minister Balendra Shah on Sunday left
+  for New Delhi on a two-day state visit at the invitation of PM Modi,
+  leading a 35-member delegation; delegation-level talks with Modi are
+  set for November 23.
+  https://ianslive.in/nepal-pm-balen-shah-leaves-for-india-on-two-day-state-visit--20261122135633
+- The Daily Jagran, 22 Nov 2026 — Shah arrived in New Delhi on Sunday
+  evening, his first state visit since taking office; India's MEA
+  spokesperson posted the arrival on November 22, 2026.
+
+(The page says a 34-member team, the figure given by Nepal's Foreign
+Ministry and several Indian reports; IANS counted 35 including staff.)
+
+### 11 — Liverpool 4–0 Manchester United (Sunday 22 Nov)
+- Reuters, 22 Nov 2026 — "Ten-man United hammered 4-0 by Liverpool in
+  Pochettino debut": reduced to 10 men after eight minutes (Leny Yoro
+  sent off), United fell behind through Szoboszlai and Wirtz, then Rio
+  Ngumoha and Victor Munoz completed the rout; United remain 19th.
+  https://www.reuters.com/sports/soccer/ten-man-united-hammered-4-0-by-liverpool-pochettino-debut-2026-11-22/
+- Sky Sports, 22 Nov 2026 — Liverpool 4–0 Man Utd match report:
+  Szoboszlai 10', Wirtz 13', Ngumoha 66' (youngest scorer in the
+  fixture's history), Munoz 82'.
+  https://www.skysports.com/football/liverpool-vs-manchester-united/559550
+
+## Rejected — the date traps
+
+Checked and deliberately left off the page, because the events belong
+to earlier days (the failure mode this edition exists to fix):
+
+- **BepiColombo reaches Mercury** — a wonderful story, but orbit
+  insertion was Saturday 21 November (ESA/Nature, 21 Nov). Not Sunday's
+  news.
+- **Nigeria funeral boat disaster** — the boat capsized on Friday
+  20 November in Bayelsa State; the toll of 24 was announced Saturday
+  (AP). Not Sunday's news.
+- **Leeds United's 4–1 win at Chelsea** — played Saturday 21 November
+  (Sportradar fixture record), however many verdict pieces ran Sunday.
+- **Argentina's $50.75bn LNG approval** — announced Friday 20 November
+  (Reuters/AFP).
+- **Denmark expels Russia's defence attaché** over the Kyivstoner
+  assassination plot — announced Friday 20 November (WSJ/CNN).
+- **Phumzile Mlambo-Ngcuka dies at 71** — she died on Friday
+  20 November; tributes ran all weekend (UNAIDS, 21 Nov).
+- **"El Chapo Isidro" captured in Mexico** — captured 20 November
+  (Guardian); only the aftermath violence is newer.
+- **The Kryvyi Rih strike** — a ballistic strike of 20 November. An
+  earlier edition of this page led with it as if it were the day's
+  news; that staleness is exactly what this rebuild removes.
